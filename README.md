@@ -84,12 +84,38 @@ Basics of Python, Data Types
   - R- Libraries
     - Ggplot2
     - TensorFlow, Keras
-   
+## API - Application Programming Interfaces
+- two pieces of  software talk to each other through API
+- API libraries are Python, c++, java have their own APIs
+- REST APIs
+  - REpresentational State Transfer APIs
+  - used to interact with web services
+  - set of rules regarding
+    - communication
+    - inputs as request
+    - outputs as a response
 
 
+### Dataset
+- Collection of data
+- Data Structures
+  - Tabular Data (csv file)
+  - Hierarchical data, network data
+  - raw data
+- Open data
+  - Scientific institution
+  - Governments
+  - Organisations
+  - Companies
+  - Publicly available
+- Private data
+  - Confidential
+  - private or personal information
+  - commercially sensitive
 
-
-
+- Data Asset eXcahge (DAX)
+  - from IBM  research and 3rd party
+  - Data Science friendly licenses
 
 
 
